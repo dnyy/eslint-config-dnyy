@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-dnyy",
+  "version": "1.0.0",
+  "description": "ESLint+Prettier config by Daniel Toll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dnyy/eslint-config-dnyy.git"
+  },
+  "keywords": [
+    "[javascript",
+    "eslint",
+    "prettier",
+    "es6",
+    "config]"
+  ],
+  "author": "Daniel Toll @DanielToll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnyy/eslint-config-dnyy/issues"
+  },
+  "homepage": "https://github.com/dnyy/eslint-config-dnyy#readme"
+}
